@@ -1,22 +1,13 @@
-# Project Title
-Simple overview of use/purpose.  
-
+# Triangle Tracker
+This project tests whether 3 inputs make a triangle, and if so, what kind of triangle it is.
+ 
 ## Author
 Nathan Fletcher
-
-## Description
-
-This project is an opportunity to showcase my abilities using new tools and technologies including:
-* Git
-* HTML
-* CSS
-* Bootstrap
 
 ## Setup 
 1. Clone the source code from the [repo](https://github.com/nathanfletch/)
 2. Navigate to the directory on your computer.
 3. Open the index.html file in your browser.
-* Or just check out the final result on [Github Pages](https://nathanfletch/.github.io.com/)
 
 ## License
  
